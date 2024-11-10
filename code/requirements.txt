@@ -1,0 +1,4 @@
+folium==0.17.0
+matplotlib==3.9.0
+pandas==2.2.2
+selenium==4.22.0
